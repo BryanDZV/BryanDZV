@@ -16,10 +16,10 @@
 
 - ⭐ Github  ⭐ 
 - 📲 FullStack developer
-- 🅰Angular
-- React Js
-- Node Js
-- Visual Code
+- 🅰Angular,- React Js,- Node Js- Visual Code..
+
+
+
 
 <br>
 
