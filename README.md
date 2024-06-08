@@ -1,7 +1,11 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/bryanzavaladev/)">Bryan</a> 👋</h1>
 </div>
-<img src="https://imgur.com/bGOba5Z.png" style="width:740px; height:380px;>
+
+<div align="center">
+  <img src="https://imgur.com/cAupVBf.png" style="width:100%; height:380px; style="center">
+</div>
+
 
 
 
@@ -40,7 +44,7 @@
                <br>
 <h3 align="center">Protectora</h3>
 <div align="center">                                       
-<a href="https://github.com/BryanDZV/Team_Protectora" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/BryanDZV/Team_Protectora" target="_blank"><img src="https://imgur.com/cAupVBf.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
