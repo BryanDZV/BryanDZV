@@ -47,7 +47,7 @@
 <a href="https://protectora-codigocondavid.netlify.app" target="_blank"><img src="https://i.imgur.com/WWUJADV.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/BryanDZV/Team_Protectora" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
@@ -68,12 +68,35 @@
 <div align="center">
 <a href="https://frontendstore-codigocondavid.netlify.app/" target="_blank"><img src="https://i.imgur.com/SdbF65T.png" width="400" alt="Web_Freelancer"></a>
 <p>
-<a href="https://github.com/BryanDZV/Web_Freelancer" target="_blank">
+<a href="https://github.com/BryanDZV/FrontEnd-Store" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Una Página pensada para mi uso como freelancer</p>
+</p>Una Página web Tienda</p>
 </div>
+
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Blog De Café</h3>
+<div align="center">                                       
+<a href="https://blogcoffe-codigocondavid.netlify.app/" target="_blank"><img src="https://i.imgur.com/r0ZhBZq.png" width="400" alt="Blog Front"></a>
+<br>
+<p>
+<a href="https://github.com/BryanDZV/Blog_Coffe" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+
+
+</p>
+    <p>Blog Sobre Café</p>
+    </div>                                                           
+</table>                                                                                 
+</div>
+
+<br>
                                                                                       
 
 
