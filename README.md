@@ -44,10 +44,10 @@
                <br>
 <h3 align="center">Protectora</h3>
 <div align="center">                                       
-<a href="https://protectora-codigocondavid.netlify.app" target="_blank"><img src="https://i.imgur.com/WWUJADV.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://protectora-8f558d273714.herokuapp.com/" target="_blank"><img src="https://i.imgur.com/WWUJADV.png" width="400" alt="Protectora"></a>
 <br>
 <p>
-<a href="https://github.com/BryanDZV/Team_Protectora" target="_blank">
+<a href="https://github.com/BryanDZV/Protectora" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
