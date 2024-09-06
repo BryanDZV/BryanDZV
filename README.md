@@ -229,18 +229,3 @@
 </a>
 </div>
 
-### 📊 ScoreMyRepo Analysis
-
-<p align="center">
-<a href="https://scoremyrepo.com">
-  <img height="180em" src="https://scoremyrepo.com/widget/repo/BryanDZV/Web_Freelancer"/>
-</a>
-</p>
-
-### 🌌 GitHub Skyline
-
-<p align="center">
-<a href="https://skyline.github.com/BryanDZV/">
-  <img height="180em" src="https://skyline.github.com/BryanDZV/2024"/>
-</a>
-</p>
