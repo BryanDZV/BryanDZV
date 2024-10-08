@@ -59,7 +59,7 @@
 <td width="50%">
 <h3 align="center">Frontend_Store</h3>
 <div align="center">
-<a href="https://frontendstore-codigocondavid.netlify.app/" target="_blank"><img src="https://i.imgur.com/SdbF65T.png" width="400" alt="Web_Freelancer"></a>
+<a href="https://frontendstore-codigocondavid.netlify.app/" target="_blank"><img src="https://i.imgur.com/FTKutgR.png" width="400" alt="Web_Freelancer"></a>
 <p>
 <a href="https://github.com/BryanDZV/FrontEnd-Store" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
