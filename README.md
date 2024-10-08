@@ -59,7 +59,7 @@
 <td width="50%">
 <h3 align="center">Api Juego de Tronos</h3>
 <div align="center">
-<a href="https:https://games-thrones.vercel.app" target="_blank"><img src="https://i.imgur.com/FTKutgR.png" width="400" alt="Api_Freelancer"></a>
+<a href="https://games-thrones.vercel.app/" target="_blank"><img src="https://i.imgur.com/FTKutgR.png" width="400" alt="Api_Freelancer"></a>
 <p>
 <a href="https://github.com/BryanDZV/Games_thrones" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
