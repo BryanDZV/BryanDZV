@@ -65,7 +65,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Una Api Con Framework de React </p>
+<p>Una Api Con React </p>
 </div>
 
 </td>
