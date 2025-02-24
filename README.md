@@ -23,7 +23,7 @@
 <td width="50%">
 <h3 align="center">Web_Freelancer</h3>
 <div align="center">
-<a href="https://freelancer-codigocondavid.netlify.app/ target="_blank"><img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436027/WEB_FREE_warnet.png" width="400" alt="Web_Freelancer"></a>
+<a href="https://freelancer-codigocondavid.netlify.app/" target="_blank"><img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436027/WEB_FREE_warnet.png" width="400" alt="Web_Freelancer"></a>
 <p>
 <a href="https://github.com/BryanDZV/Web_Freelancer" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -38,7 +38,7 @@
                <br>
 <h3 align="center">Protectora</h3>
 <div align="center">                                       
-<a href="https://protectora-orcin.vercel.app/portada" target="_blank"><img src="https://i.imgur.com/WWUJADV.png" width="400" alt="Protectora"></a>
+<a href="https://protectora-orcin.vercel.app/portada" target="_blank"><img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436025/PROTECTORA_vcjumx.png" width="400" alt="Protectora"></a>
 <br>
 <p>
 <a href="https://github.com/BryanDZV/Protectora" target="_blank">
@@ -59,7 +59,7 @@
 <td width="50%">
 <h3 align="center">Api Juego de Tronos</h3>
 <div align="center">
-<a href="https://games-thrones.vercel.app/" target="_blank"><img src="https://i.imgur.com/FTKutgR.png" width="400" alt="Api_Freelancer"></a>
+<a href="https://games-thrones.vercel.app/" target="_blank"><img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436026/GAMEOFTRONES_mnnxmu.png" width="400" alt="Api_Freelancer"></a>
 <p>
 <a href="https://github.com/BryanDZV/Games_thrones" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -74,7 +74,7 @@
                <br>
 <h3 align="center">Blog De Café</h3>
 <div align="center">                                       
-<a href="https://blogcoffe-codigocondavid.netlify.app/" target="_blank"><img src="https://i.imgur.com/r0ZhBZq.png" width="400" alt="Blog Front"></a>
+<a href="https://blogcoffe-codigocondavid.netlify.app/" target="_blank"><img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436027/CAFE_ewtyb2.png" width="400" alt="Blog Front"></a>
 <br>
 <p>
 <a href="https://github.com/BryanDZV/Blog_Coffe" target="_blank">
