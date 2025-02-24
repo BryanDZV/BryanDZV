@@ -13,7 +13,11 @@
 
 - ⭐ Github  ⭐ 
 - 📲 FullStack developer
-- 🅰 Angular, React Js, Node Js, Visual Code..
+- Java, Java.Js, Sql Oracle.
+- 🅰 Angular, ReactJs, SpringBoot
+- NodeJs, MONGOD 
+- HTML, CSS, XML
+- Visual Code, Eclipse
 
 <br>
 
