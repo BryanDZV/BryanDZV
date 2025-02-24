@@ -23,7 +23,7 @@
 <td width="50%">
 <h3 align="center">Web_Freelancer</h3>
 <div align="center">
-<a "href="https://freelancer-codigocondavid.netlify.app/" target="_blank"><img src="https://imgur.com/hs618OQ.png" width="400" alt="Web_Freelancer"></a>
+<a href="https://freelancer-codigocondavid.netlify.app/ target="_blank"><img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436027/WEB_FREE_warnet.png" width="400" alt="Web_Freelancer"></a>
 <p>
 <a href="https://github.com/BryanDZV/Web_Freelancer" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
