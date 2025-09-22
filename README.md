@@ -106,8 +106,8 @@
 ### 🔍 CodersRank Score
 
 <div align="center">
-<a href=https://profile.codersrank.io/user/bryandzv/>
-  <img height="180em" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=BryanDZV&show-avatar=true&width=500&style=--header-bg-color:%23000;--border-radius:10px;"/>
-</a>
+  <a href="https://profile.codersrank.io/user/bryandzv" target="_blank">
+    <img src="https://cr-ss-service.azurewebsites.net/api/badge/summary?username=bryandzv" alt="CodersRank Score" width="500"/>
+  </a>
 </div>
 
