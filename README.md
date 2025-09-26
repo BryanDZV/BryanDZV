@@ -1,113 +1,112 @@
-
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/bryanzavaladev/">Bryan</a> 👋</h1>
+  <h1>Hola, soy <a href="https://www.linkedin.com/in/bryanzavaladev/">Bryan</a> 👋</h1>
+  <h3>💻 FullStack Developer en formación | 🚀 Estudiante de 2º DAW</h3>
 </div>
 
 <div align="center">
   <img src="https://imgur.com/cAupVBf.png" style="width:100%; height:380px;">
 </div>
 
-[![GitHub followers](https://img.shields.io/github/followers/BryanDZV?style=social)](https://github.com/BryanDZV/BryanDZV)
+---
 
-## Sobre mi
+## 🚀 Sobre mí
 
-- ⭐ Github  ⭐ 
-- 📲 FullStack developer
-- Java, Java.Js, Sql Oracle.
-- 🅰 Angular, ReactJs, SpringBoot
-- NodeJs, MONGOD 
-- HTML, CSS, XML
-- Visual Code, Eclipse
+- 🎓 Estudiante de **2º DAW** (Desarrollo de Aplicaciones Web).  
+- 💻 Me especializo en **desarrollo web FullStack** con tecnologías modernas.  
+- 📚 Aprendiendo y trabajando con **Laravel, PHP, Angular y SQL**.  
+- 🛠️ Experiencia con **Java, Node.js, MongoDB, ReactJS, Spring Boot**.  
+- ⚡ Me gusta crear proyectos prácticos y aplicar lo aprendido en la vida real.  
 
-<br>
+---
 
-## Proyectos 
+## 🛠️ Tecnologías y Herramientas
+
+<p align="center">
+  <!-- Lenguajes -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  
+  <!-- Bases de datos -->
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+  <!-- Entornos -->
+  <img src="https://img.shields.io/badge/WAMP-F37626?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white"/>
+  
+  <!-- IDEs -->
+  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
+</p>
+
+---
+
+## 📂 Proyectos Destacados
+
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Web_Freelancer</h3>
+<h3 align="center">🌐 Web Freelancer</h3>
 <div align="center">
-<a href="https://freelancer-codigocondavid.netlify.app/" target="_blank"><img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436027/WEB_FREE_warnet.png" width="400" alt="Web_Freelancer"></a>
-<p>
+<a href="https://freelancer-codigocondavid.netlify.app/" target="_blank">
+<img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436027/WEB_FREE_warnet.png" width="400" alt="Web_Freelancer">
+</a>
+<br>
 <a href="https://github.com/BryanDZV/Web_Freelancer" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/Ver%20Código-000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</p>
-<p>Una Página pensada para mi uso como freelancer</p>
+<p>Una página pensada para mi uso como freelancer</p>
 </div>
-                                                                                      
 </td>
 
 <td width="50%">
-               <br>
-<h3 align="center">Protectora</h3>
-<div align="center">                                       
-<a href="https://protectora-orcin.vercel.app/portada" target="_blank"><img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436025/PROTECTORA_vcjumx.png" width="400" alt="Protectora"></a>
-<br>
-<p>
-<a href="https://github.com/BryanDZV/Protectora" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Una aplicación web dedicada a ayudar en la adopción de animales</p>
-</div>                                                           
-</td>
-</tr>
-</table>                                                                                 
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Api Juego de Tronos</h3>
+<h3 align="center">🐾 Protectora</h3>
 <div align="center">
-<a href="https://games-thrones.vercel.app/" target="_blank"><img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436026/GAMEOFTRONES_mnnxmu.png" width="400" alt="Api_Freelancer"></a>
-<p>
-<a href="https://github.com/BryanDZV/Games_thrones" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://protectora-orcin.vercel.app/portada" target="_blank">
+<img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436025/PROTECTORA_vcjumx.png" width="400" alt="Protectora">
 </a>
-</p>
-<p>Una Api Con React </p>
-</div>
-
-</td>
-
-<td width="50%">
-               <br>
-<h3 align="center">Blog De Café</h3>
-<div align="center">                                       
-<a href="https://blogcoffe-codigocondavid.netlify.app/" target="_blank"><img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436027/CAFE_ewtyb2.png" width="400" alt="Blog Front"></a>
 <br>
-<p>
-<a href="https://github.com/BryanDZV/Blog_Coffe" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/BryanDZV/Protectora" target="_blank">
+<img src="https://img.shields.io/badge/Ver%20Código-000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</p>
-<p>Blog Sobre Café</p>
-</div>                                                           
+<p>Aplicación web para ayudar en la adopción de animales</p>
+</div>
 </td>
 </tr>
-</table>                                                                                 
-</div>
+</table>
 
-<br>
+---
 
-### ⚙️ &nbsp;GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/BryanDZV">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BryanDZV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BryanDZV&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BryanDZV&layout=compact&langs_count=12&theme=algolia"/>
 </a>
 </p>
 
-### 🔍 CodersRank Score
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanDZV&theme=algolia" alt="streak stats"/>
+</p>
 
-<div align="center">
-  <a href="https://profile.codersrank.io/user/bryandzv" target="_blank">
-    <img src="https://cr-ss-service.azurewebsites.net/api/badge/summary?username=bryandzv" alt="CodersRank Score" width="500"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BryanDZV&theme=react-dark"/>
+</p>
+
+---
+
+## 📫 Contacto
+<p align="center">
+  <a href="https://www.linkedin.com/in/bryanzavaladev/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bryan.dweb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/BryanDZV"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+
 
