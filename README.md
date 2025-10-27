@@ -109,6 +109,18 @@
 </tr>
 </table>
 
+
+⚙️ Backend / APIs con Node.js y Express
+<table> <tr> <td width="50%"> <h3 align="center">🔐 API de Autenticación (Node.js)</h3> <div align="center"> <a href="servidor-protectora-bice.vercel.app" target="_blank"> <img src="https://imgur.com/a/ab084hF" width="400" alt="API de Autenticación"> </a>
+
+
+<a href="https://github.com/BryanDZV/servidor_protectora" target="_blank"> <img src="https://imgur.com/a/ab084hF"> </a> <p>Servidor RESTful con Node.js y Express para gestión de usuarios, JWT y autenticación segura.</p> </div> </td>
+
+<td width="50%"> <h3 align="center">🛒 API eCommerce Básico (Express)</h3> <div align="center"> <a href="[URL-LIVE-PROYECTO-2]" target="_blank"> <img src="[URL-IMAGEN-PROYECTO-2]" width="400" alt="API eCommerce"> </a>
+
+
+<a href="[URL-REPOSITORIO-PROYECTO-2]" target="_blank"> <img src="https://img.shields.io/badge/Ver%20Código-000?style=for-the-badge&logo=github&logoColor=white"> </a> <p>Backend de un eCommerce con Express, rutas de productos, y conexión a base de datos (MongoDB/SQL).</p> </div> </td> </tr> </table>
+
 ---
 
 ## 📊 GitHub Analytics
