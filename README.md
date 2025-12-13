@@ -14,8 +14,7 @@
 
 - 🎓 Estudiante de **2º DAW** (Desarrollo de Aplicaciones Web).  
 - 💻 Especializado en **FullStack Web Development**.  
-- 📚 Aprendiendo y aplicando: **Laravel, PHP, Angular, SQL, Node.js, ReactJS**.  
-- ⚡ Me encanta construir proyectos prácticos y mostrar resultados tangibles.  
+- 📚 Aprendiendo y aplicando: **Angular,Laravel, PHP,SQL, Node.js, ReactJS**.    
 
 ---
 
