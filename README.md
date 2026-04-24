@@ -1,151 +1,125 @@
 <div align="center">
   <h1>Hola, soy <a href="https://www.linkedin.com/in/bryanzavaladev/">Bryan</a> 👋</h1>
-  <h3>💻 FullStack Developer en formación | 🚀 Estudiante de 2º DAW</h3>
-  <p>Apasionado por el desarrollo web, creando proyectos reales mientras aprendo JavaScript, Angular y más.</p>
+  <h3>🚀 FullStack Developer | Next.js & 3D Web Specialist</h3>
+  <p>Finalizando 2º de DAW y transformando ideas en experiencias digitales interactivas.</p>
 </div>
 
 <div align="center">
-  <img src="https://imgur.com/cAupVBf.png" style="width:100%; height:380px;">
+  <img src="https://imgur.com/cAupVBf.png" style="width:100%; border-radius: 10px shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </div>
 
 ---
 
-## 🌟 Lo que hago
+## 👨‍💻 Sobre mí
 
-- 🎓 Estudiante de **2º DAW** (Desarrollo de Aplicaciones Web).  
-- 💻 Especializado en **FullStack Web Development**.  
-- 📚 Aprendiendo y aplicando: **Angular,Laravel, PHP,SQL, Node.js, ReactJS**.    
+- 🎓 Estudiante de **2º DAW** en fase de FCT (Prácticas en empresa).
+- 🏢 Actualmente impulsando proyectos con **Next.js 15, TypeScript y Supabase**.
+- 🛠️ Enfocado en la **calidad**: Testing (Playwright/RTL), Docker y CI/CD.
+- 🌎 Comunicación técnica fluida en **Inglés IT**.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+### 🎨 Frontend & Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WAMP-F37626?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
 </p>
 
 ---
 
 ## 📂 Proyectos Destacados
 
-### 🚀 Frontend / Frameworks Modernos
+### 🌟 PROYECTO TOP: Portfolio 3D Experience
+<table>
+<tr>
+<td width="60%">
+<p>Mi proyecto más ambicioso. Una experiencia inmersiva con integración 3D y gestión dinámica de contenido.</p>
+<ul>
+    <li>🚀 <b>Stack:</b> Next.js 15 (App Router), TypeScript.</li>
+    <li>🎨 <b>Interactividad:</b> Escenas 3D con Spline y animaciones fluidas con Framer Motion.</li>
+    <li>🔐 <b>Backend:</b> Base de datos en tiempo real con Supabase.</li>
+</ul>
+<a href="https://portafolio-zeta-two-84.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20Demo-0070f3?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+</td>
+<td width="40%">
+<img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436027/WEB_FREE_warnet.png" width="100%" alt="Preview Portfolio">
+</td>
+</tr>
+</table>
 
+### 🚀 Otros Proyectos Relevantes
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🐾 Protectora (Angular)</h3>
+<h3 align="center">🎵 SoundHub (Proyecto DAW)</h3>
+<div align="center">
+<a href="https://soundhub-nu.vercel.app/" target="_blank">
+<img src="https://i.imgur.com/BsMGE5h.png" width="400" alt="Soundhub">
+</a>
+<p><b>Trabajo en Equipo:</b> Plataforma musical colaborativa desarrollada como proyecto final de ciclo.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">🛒 Modern Ecommerce</h3>
+<div align="center">
+<a href="https://ecommerce-chi-eight-79.vercel.app/" target="_blank">
+<img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436027/CAFE_ewtyb2.png" width="400" alt="Ecommerce">
+</a>
+<p>Tienda online con enfoque en rendimiento y experiencia de usuario (UX).</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🐾 Protectora Animal (Angular)</h3>
 <div align="center">
 <a href="https://protectora-orcin.vercel.app/portada" target="_blank">
-<img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436025/PROTECTORA_vcjumx.png" width="400" alt="Protectora Angular">
+<img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436025/PROTECTORA_vcjumx.png" width="400">
 </a>
-<br>
-<a href="https://github.com/BryanDZV/Protectora" target="_blank">
-<img src="https://img.shields.io/badge/Ver%20Código-000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<p>Aplicación web completa para adopción de animales, Angular + Backend</p>
+<p>Gestión completa de adopciones con Angular y Backend robusto.</p>
 </div>
 </td>
-
 <td width="50%">
-<h3 align="center">🎮 API Juego de Tronos (React)</h3>
+<h3 align="center">➕ Más en mi GitHub</h3>
 <div align="center">
-<a href="https://games-thrones.vercel.app/" target="_blank">
-<img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436026/GAMEOFTRONES_mnnxmu.png" width="400" alt="API Juego de Tronos React">
+<br><br>
+<p>Explora mis repositorios para ver implementaciones de <b>APIs, Microservicios y Testing</b>.</p>
+<a href="https://github.com/BryanDZV?tab=repositories">
+  <img src="https://img.shields.io/badge/Ver%20Repositorios-000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<br>
-<a href="https://github.com/BryanDZV/Games_thrones" target="_blank">
-<img src="https://img.shields.io/badge/Ver%20Código-000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<p>SPA con ReactJS consumiendo API de Juego de Tronos</p>
 </div>
 </td>
 </tr>
 </table>
 
-### 💻 HTML / CSS / FullStack Básico
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🌐 Web Freelancer</h3>
-<div align="center">
-<a href="https://freelancer-codigocondavid.netlify.app/" target="_blank">
-<img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436027/WEB_FREE_warnet.png" width="400" alt="Web Freelancer">
-</a>
-<br>
-<a href="https://github.com/BryanDZV/Web_Freelancer" target="_blank">
-<img src="https://img.shields.io/badge/Ver%20Código-000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<p>Página personal pensada para uso freelance</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">☕ Blog de Café</h3>
-<div align="center">
-<a href="https://blogcoffe-codigocondavid.netlify.app/" target="_blank">
-<img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436027/CAFE_ewtyb2.png" width="400" alt="Blog de Café">
-</a>
-<br>
-<a href="https://github.com/BryanDZV/Blog_Coffe" target="_blank">
-<img src="https://img.shields.io/badge/Ver%20Código-000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<p>Blog temático con diseño responsive y contenido dinámico</p>
-</div>
-</td>
-</tr>
-</table>
-
-
-⚙️ Backend / APIs con Node.js y Express
-<table> <tr> <td width="50%"> <h3 align="center">🔐 API de Autenticación (Node.js)</h3> <div align="center"> <a href="https://servidor-protectora-bice.vercel.app/" target="_blank"> <img src="https://i.imgur.com/BsMGE5h.png" width="400" alt="API de Autenticación"> </a>
-
-
-<a href="https://github.com/BryanDZV/servidor_protectora" target="_blank"> <img src="https://img.shields.io/badge/Ver%20Código-000?style=for-the-badge&logo=github&logoColor=white"> </a> <p>Servidor RESTful con **Node.js y Express**, desplegado en **Vercel** para gestión de usuarios, JWT y autenticación segura,conexión a base de datos (MongoDB).</p> </div> </td>
-</tr> </table>
-
 ---
 
-## 📊 GitHub Analytics
-
+## 📊 Estadísticas
 <p align="center">
-<a href="https://github.com/BryanDZV">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BryanDZV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BryanDZV&layout=compact&langs_count=12&theme=algolia"/>
-</a>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanDZV&theme=algolia" alt="streak stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BryanDZV&theme=react-dark"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BryanDZV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BryanDZV&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ---
 
-## 📫 Contacto
+## 📫 Conecta conmigo
 <p align="center">
   <a href="https://www.linkedin.com/in/bryanzavaladev/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bryan.dweb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/BryanDZV"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-### 📢 ¿Quieres colaborar o hablar de oportunidades?
-Si te interesa mi perfil o algún proyecto, **¡no dudes en escribirme!**  
-Estoy abierto a **colaboraciones, prácticas o trabajos como FullStack Developer**.
