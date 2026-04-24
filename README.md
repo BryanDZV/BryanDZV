@@ -56,7 +56,7 @@
     <td width="50%">
       <h3 align="center">✨ Portafolio 3D</h3>
       <div align="center">
-        <img src="https://i.imgur.com/Ik5Bf1w.png" width="100%" alt="Preview Portafolio">
+        <img src="https://i.imgur.com/NUfB1vR.png" width="100%" alt="Preview Portafolio">
         <p>Práctica de integración de escenas 3D con Next.js y Supabase para gestión de datos.</p>
         <a href="https://portafolio-zeta-two-84.vercel.app/" target="_blank">Demo</a> | 
         <a href="https://github.com/BryanDZV/Portafolio" target="_blank">Código</a>
@@ -65,7 +65,7 @@
     <td width="50%">
       <h3 align="center">🎵 SoundHub</h3>
       <div align="center">
-        <img src="https://i.imgur.com/S7ymxlM.png" width="100%" alt="Preview SoundHub">
+        <img src="https://i.imgur.com/oxZw1Wo.jpeg" width="100%" alt="Preview SoundHub">
         <p>Proyecto colaborativo replicando una plataforma musical con Angular, Express y PostgreSQL.</p>
         <a href="https://soundhub-nu.vercel.app/" target="_blank">Demo</a>
       </div>
@@ -75,7 +75,7 @@
     <td width="50%">
       <h3 align="center">🛒 Next Commerce</h3>
       <div align="center">
-        <img src="https://i.imgur.com/ZwScw4s.png" width="100%" alt="Preview Ecommerce">
+        <img src="https://i.imgur.com/r7Ymy9C.jpeg" width="100%" alt="Preview Ecommerce">
         <p>Desarrollo de tienda online para practicar estados globales con Zustand y TanStack Query.</p>
         <a href="https://ecommerce-chi-eight-79.vercel.app/" target="_blank">Demo</a>
       </div>
