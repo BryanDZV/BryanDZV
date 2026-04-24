@@ -1,129 +1,118 @@
 <div align="center">
   <h1>Hola, soy <a href="https://www.linkedin.com/in/bryanzavaladev/">Bryan</a> 👋</h1>
-  <h3>💻 FullStack Developer | Next.js 16, Angular & 3D Web Specialist</h3>
-  <p>Finalizando 2º de DAW y transformando ideas en experiencias digitales inmersivas de alto rendimiento.</p>
+  <h3>Estudiante de 2º de DAW | Aprendiendo y construyendo en la web</h3>
+  <p>Enfocado en aprender nuevas tecnologías y mejorar mis habilidades como desarrollador día tras día.</p>
 </div>
 
 <div align="center">
-  <img src="https://imgur.com/cAupVBf.png" style="width:100%; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
+  <img src="https://i.imgur.com/cAupVBf.png" style="width:100%; border-radius: 8px;">
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🌱 Sobre mí
 
-- 🎓 Estudiante de **2º DAW** (Desarrollo de Aplicaciones Web) en fase de FCT.
-- 🏢 Actualmente impulsando proyectos con **Next.js 16 (React 19), Angular v17/v20 y Supabase**.
-- 🛠️ Enfocado en la **calidad**: Implementando Testing (Playwright, Jest, RTL), Docker y CI/CD.
-- 🎨 Especializado en **experiencias interactivas 3D** con Spline y Framer Motion.
-- 🌎 Comunicación técnica fluida en **Inglés IT**.
+- 🎓 Actualmente terminando mi último año de **DAW** (Desarrollo de Aplicaciones Web) y realizando mis prácticas (**FCT**).
+- 📚 Dedico mi tiempo libre a profundizar en **Next.js, TypeScript y el ecosistema de React**.
+- 🛠️ Me motiva mucho aprender sobre **calidad de código**, testing y buenas prácticas de desarrollo.
+- 🌍 Busco mejorar constantemente mi comunicación técnica, también en **inglés**.
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+## 🛠️ Tecnologías que estoy aprendiendo y aplicando
 
-### 🎨 Frontend & Design Systems
+### Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular_v17/v20-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS_4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spline_3D-D0A4E2?style=for-the-badge&logo=spline&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <a href="https://nextjs.org/docs" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
+  <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
+  <a href="https://angular.dev" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+  <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+  <a href="https://docs.spline.design/" target="_blank"><img src="https://img.shields.io/badge/Spline_3D-D0A4E2?style=for-the-badge&logo=spline&logoColor=black"/></a>
 </p>
 
-### ⚙️ Backend, Database & State
+### Backend & State Management
 <p align="left">
-  <img src="https://img.shields.io/badge/Supabase_(Auth+%20Storage)-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-B6967A?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongo_DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <a href="https://supabase.com/docs" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
+  <a href="https://orm.drizzle.team/docs/overview" target="_blank"><img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black"/></a>
+  <a href="https://tanstack.com/query/latest/docs/framework/react/overview" target="_blank"><img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/></a>
+  <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank"><img src="https://img.shields.io/badge/Zustand-B6967A?style=for-the-badge&logo=react&logoColor=black"/></a>
+  <a href="https://nodejs.org/docs" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 </p>
 
-### 🔧 DevOps & Tools
+### Herramientas & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="https://vercel.com/docs" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://playwright.dev/docs/intro" target="_blank"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Proyectos realizados durante mi formación
 
-### 🌟 PROYECTO TOP: Portafolio Personal 3D
+### 🌟 Exploración 3D y Datos (Portafolio)
 <table>
 <tr>
 <td width="60%">
-<p>Mi proyecto insignia. Una inmersión digital utilizando lo último en tecnologías FullStack y 3D.</p>
+<p>Un proyecto personal para poner en práctica la integración de escenas 3D y la gestión de datos con servicios modernos.</p>
 <ul>
-    <li>🚀 <b>Core:</b> Next.js 16 (App Router), TypeScript, Tailwind CSS 4.</li>
-    <li>🎨 <b>3D:</b> Escenas interactivas con Spline y Framer Motion.</li>
-    <li>🔐 <b>Data:</b> Gestión con Supabase y Drizzle ORM. Soporte i18n (ES/EN).</li>
+    <li>🚀 <b>Aprendizaje:</b> Uso de Next.js, Spline y Framer Motion.</li>
+    <li>🔐 <b>Datos:</b> Conexión con Supabase y Drizzle ORM.</li>
 </ul>
-<a href="https://portafolio-zeta-two-84.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Ver%20Demo-0070f3?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+<a href="https://portafolio-zeta-two-84.vercel.app/" target="_blank">Ver Demo</a> | 
+<a href="https://github.com/BryanDZV/Portafolio" target="_blank">Código</a>
 </td>
 <td width="40%">
-<img src="https://i.imgur.com/cAupVBf.png" width="100%" alt="Preview Portafolio">
+<img src="https://i.imgur.com/Ik5Bf1w.png" width="100%" alt="Preview Portafolio">
 </td>
 </tr>
 </table>
 
-### 🚀 Otros Proyectos Relevantes
+### 🎵 SoundHub (Proyecto en Equipo)
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">🎵 SoundHub (Proyecto DAW)</h3>
-<div align="center">
-<img src="https://i.imgur.com/MI6nIkG.png" width="400" alt="SoundHub">
-<p><b>Trabajo en Equipo:</b> Clon de Spotify con <b>Angular v20 (SSR)</b>, Node.js, Express y PostgreSQL. Gestión de archivos con <b>Vercel Blob</b>.</p>
-<a href="https://soundhub-nu.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Ver%20Demo-00c853?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-</div>
+<td width="60%">
+<p>Proyecto desarrollado de forma colaborativa durante el ciclo de DAW, replicando la experiencia de una plataforma musical.</p>
+<ul>
+    <li>🚀 <b>Tecnologías:</b> Angular, Express y PostgreSQL.</li>
+    <li>📁 <b>Gestión:</b> Aprendiendo a manejar archivos con Vercel Blob.</li>
+</ul>
+<a href="https://soundhub-nu.vercel.app/" target="_blank">Ver Demo</a>
 </td>
-
-<td width="50%">
-<h3 align="center">🛒 Next Commerce</h3>
-<div align="center">
-<img src="https://i.imgur.com/H9yHNvj.png" width="400" alt="Ecommerce">
-<p>Plataforma de e-commerce avanzada con <b>Next.js 16</b>, React 19 y TypeScript. Estado global con <b>Zustand</b> y <b>TanStack Query</b>.</p>
-<a href="https://ecommerce-chi-eight-79.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Ver%20Demo-ff6f00?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-</div>
+<td width="40%">
+<img src="https://i.imgur.com/S7ymxlM.png" width="100%" alt="Preview SoundHub">
 </td>
 </tr>
+</table>
+
+### 🛒 Next Commerce
+<table>
 <tr>
-<td width="50%">
-<h3 align="center">🐾 Protectora Animal</h3>
-<div align="center">
-<img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436025/PROTECTORA_vcjumx.png" width="400">
-<p>Gestión completa de adopciones con <b>Angular v17</b>, Node.js y MongoDB. Auth con JWT.</p>
-<a href="https://protectora-orcin.vercel.app/portada" target="_blank">
-  <img src="https://img.shields.io/badge/Ver%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-</div>
+<td width="60%">
+<p>Desarrollo de una tienda online para profundizar en el manejo de estados complejos y sincronización de datos.</p>
+<ul>
+    <li>🚀 <b>Stack:</b> Next.js, Zustand y TanStack Query.</li>
+</ul>
+<a href="https://ecommerce-chi-eight-79.vercel.app/" target="_blank">Ver Demo</a>
 </td>
-<td width="50%">
-<h3 align="center">📊 Estadísticas</h3>
-<div align="center">
-<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BryanDZV&show_icons=true&theme=algolia"/>
-</div>
+<td width="40%">
+<img src="https://i.imgur.com/ZwScw4s.png" width="100%" alt="Preview Ecommerce">
 </td>
 </tr>
 </table>
 
 ---
 
-## 📫 Conecta conmigo
+## 📊 Actividad en GitHub
+<p align="center">
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BryanDZV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</p>
+
+---
+
+## 📫 Contacto
 <p align="center">
   <a href="https://www.linkedin.com/in/bryanzavaladev/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bryan.dweb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
