@@ -26,8 +26,10 @@ Me dedico al desarrollo web, construyendo soluciones de principio a fin. Me gust
 ### 🎨 Frontend & Design
 <p align="left">
   <a href="https://nextjs.org/docs" target="_blank"><img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
+  <a href="https://remix.run/" target="_blank"><img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white"/></a>
   <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
   <a href="https://angular.dev" target="_blank"><img src="https://img.shields.io/badge/Angular_v20-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
+  <a href="https://astro.build/" target="_blank"><img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white"/></a>
   <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
   <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS_4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
   <a href="https://docs.spline.design/" target="_blank"><img src="https://img.shields.io/badge/Spline_3D-D0A4E2?style=for-the-badge&logo=spline&logoColor=black"/></a>
@@ -56,20 +58,25 @@ Me dedico al desarrollo web, construyendo soluciones de principio a fin. Me gust
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">✨ Portafolio 3D</h3>
-      <div align="center">
-        <img src="https://i.imgur.com/NUfB1vR.png" width="100%" alt="Preview Portafolio">
-        <br>
-        <img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/Drizzle-000?style=flat-square&logo=drizzle&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/Spline-000?style=flat-square&logo=spline&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/Zustand-000?style=flat-square&logo=react&logoColor=white"/>
-        <p>Inmersivo y multilenguaje. Gestión de datos en tiempo real y escenas 3D.</p>
-        <a href="https://portafolio-zeta-two-84.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        <a href="https://github.com/BryanDZV/Portafolio" target="_blank"><img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-      </div>
-    </td>
+  <h3 align="center">✨ Portafolio 3D</h3>
+  <div align="center">
+    <img src="https://i.imgur.com/NUfB1vR.png" width="100%" alt="Preview Portafolio" />
+    <br>
+    <img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_19-000?style=flat-square&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS_4-000?style=flat-square&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framer_Motion-000?style=flat-square&logo=framer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Drizzle-000?style=flat-square&logo=drizzle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zustand-000?style=flat-square&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Shadcn_UI-000?style=flat-square&logo=radixui&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spline-000?style=flat-square&logo=spline&logoColor=white" />
+    <p>Portafolio inmersivo y multilenguaje con escenas 3D, animaciones fluidas, autenticación, panel de administración y gestión de proyectos en tiempo real.</p>
+    <a href="https://portafolio-zeta-two-84.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://github.com/BryanDZV/Portafolio" target="_blank"><img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </div>
+</td>
     <td width="50%">
       <h3 align="center">🎵 SoundHub</h3>
       <div align="center">
