@@ -90,7 +90,7 @@
         <img src="https://img.shields.io/badge/TanStack_Query-000?style=flat-square&logo=reactquery&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Jest/RTL-000?style=flat-square&logo=jest&logoColor=white"/>
         <p>E-commerce avanzado con panel de analíticas y sincronización eficiente de datos.</p>
-        <a href="https://ecommerce-chi-eight-79.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="https://ecommerce-analytics-storefront-next.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
       </div>
     </td>
     <td width="50%">
