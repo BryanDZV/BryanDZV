@@ -78,6 +78,7 @@
         <a href="https://soundhub-nu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
       </div>
     </td>
+    
   </tr>
   <tr>
     <td width="50%">
@@ -122,7 +123,7 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🐾 Protectora Animal</h3>
+      <h3 align="center">Gestor Financiero</h3>
       <div align="center">
         <img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436025/PROTECTORA_vcjumx.png" width="100%" alt="Preview Protectora">
         <br>
@@ -131,7 +132,7 @@
         <img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=white"/> 
         <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
         <p>Gestión completa de protectoras centrada en la experiencia de usuario y seguridad.</p>
-        <a href="https://protectora-orcin.vercel.app/portada" target="_blank"><img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="https://gestor-financiero-remix.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
       </div>
     </td>
   </tr>
