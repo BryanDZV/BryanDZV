@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hola, soy <a href="https://www.linkedin.com/in/bryanzavaladev/">Bryan</a> 👋</h1>
-  <h3>💻 Estudiante de 2º de DAW | Aprendiendo y construyendo en la web</h3>
-  <p>Enfocado en mejorar mis habilidades técnicas y en aplicar nuevas tecnologías para resolver retos reales.</p>
+  <h3>💻 Desarrollador Web</h3>
+  <p>Construyendo aplicaciones web completas, cuidando tanto el detalle visual en el cliente como la lógica en el servidor.</p>
 </div>
 
 <div align="center">
@@ -10,16 +10,18 @@
 
 ---
 
-## 🌱 Sobre mí
+## 👋 Sobre mí
 
-- 🎓 Actualmente terminando **2º de DAW** (Desarrollo de Aplicaciones Web) y realizando mi periodo de **FCT (prácticas en empresa)**.
-- 📚 Dedico mi tiempo a profundizar en **Next.js 16 (React 19), TypeScript y el ecosistema de animaciones 3D**.
-- 🛠️ Me interesa mucho aprender sobre **calidad de código**, testing (Playwright/Jest/RTL) y buenas prácticas.
-- 🌍 Busco mejorar constantemente mi comunicación técnica, también en **inglés**.
+Me dedico al desarrollo web, construyendo soluciones de principio a fin. Me gusta crear interfaces interactivas y sólidas, entendiendo y controlando también lo que ocurre en el servidor y en la base de datos.
+
+- 💻 **Frontend:** Trabajo habitualmente con el ecosistema de **JavaScript/TypeScript (Next.js, React, Angular)**. También me gusta enriquecer la interfaz integrando **animaciones 3D** (Spline, Framer Motion).
+- ⚙️ **Backend & Datos:** Tengo experiencia levantando APIs y servidores con **Node.js (Express)** y **PHP (Laravel)**. Me desenvuelvo bien con bases de datos relacionales, diseñando consultas **SQL** directamente en el editor y trabajando con gestores como **Oracle, PostgreSQL y Supabase**.
+- 🛠️ **Buenas prácticas:** Le doy mucha importancia a la calidad del código, la gestión eficiente del estado (Zustand, TanStack Query) y el testing de las aplicaciones (Playwright/Jest/RTL).
+- 🤝 **Comunicación:** Valoro la claridad técnica a la hora de trabajar en equipo y me manejo bien leyendo y redactando documentación en **inglés**.
 
 ---
 
-## 🛠️ Tecnologías en aprendizaje y aplicación
+## 🛠️ Tecnologías
 
 ### 🎨 Frontend & Design
 <p align="left">
@@ -34,14 +36,17 @@
 
 ### ⚙️ Backend, Database & State
 <p align="left">
+  <a href="https://nodejs.org/docs" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
+  <a href="https://laravel.com/docs" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a>
+  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>
   <a href="https://supabase.com/docs" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
+  <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
   <a href="https://orm.drizzle.team/docs/overview" target="_blank"><img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black"/></a>
   <a href="https://tanstack.com/query/latest" target="_blank"><img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/></a>
   <a href="https://docs.pmnd.rs/zustand" target="_blank"><img src="https://img.shields.io/badge/Zustand-B6967A?style=for-the-badge&logo=react&logoColor=black"/></a>
-  <a href="https://nodejs.org/docs" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
-  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-  <a href="https://laravel.com/docs" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a>
-  <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 </p>
 
 ---
