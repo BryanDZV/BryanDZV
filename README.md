@@ -73,7 +73,7 @@ Me dedico al desarrollo web, construyendo soluciones de principio a fin. Me gust
     <img src="https://img.shields.io/badge/Shadcn_UI-000?style=flat-square&logo=radixui&logoColor=white" />
     <img src="https://img.shields.io/badge/Spline-000?style=flat-square&logo=spline&logoColor=white" />
     <p>Portafolio inmersivo y multilenguaje con escenas 3D, animaciones fluidas, autenticación, panel de administración y gestión de proyectos en tiempo real.</p>
-    <a href="https://portafolio-zeta-two-84.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://portafolio-alpha-rosy-19.vercel.app/en" target="_blank"><img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     <a href="https://github.com/BryanDZV/Portafolio" target="_blank"><img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white" /></a>
   </div>
 </td>
