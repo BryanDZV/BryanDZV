@@ -124,7 +124,7 @@ Me dedico al desarrollo web, construyendo soluciones de principio a fin. Me gust
     <td width="50%">
   <h3 align="center">Portal Médico</h3>
   <div align="center">
-    <img src="https://i.imgur.com/r7Ymy9C.jpeg" width="100%" alt="Preview Portal Médico">
+    <img src="https://i.imgur.com/u0WAHIQ.png" width="100%" alt="Preview Portal Médico">
     <br>
     <img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/React_19-000?style=flat-square&logo=react&logoColor=white"/>
@@ -139,7 +139,7 @@ Me dedico al desarrollo web, construyendo soluciones de principio a fin. Me gust
     </a>
   </div>
 </td>
-    <td width="50%"> <h3 align="center">Gestor Financiero</h3> <div align="center"> <img src="https://res.cloudinary.com/ds8asomir/image/upload/v1740436025/PROTECTORA_vcjumx.png" width="100%" alt="Preview Gestor Financiero"> <br> <img src="https://img.shields.io/badge/React_Router-000?style=flat-square&logo=reactrouter&logoColor=white"/> <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-000?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/> <p>Aplicación para gestionar finanzas personales con control de ingresos, gastos, presupuestos y seguimiento visual de movimientos.</p> <a href="https://gestor-financiero-remix.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </div> </td>
+    <td width="50%"> <h3 align="center">Gestor Financiero</h3> <div align="center"> <img src="https://i.imgur.com/OcNOBLJ.png" width="100%" alt="Preview Gestor Financiero"> <br> <img src="https://img.shields.io/badge/React_Router-000?style=flat-square&logo=reactrouter&logoColor=white"/> <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-000?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/> <p>Aplicación para gestionar finanzas personales con control de ingresos, gastos, presupuestos y seguimiento visual de movimientos.</p> <a href="https://gestor-financiero-remix.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </div> </td>
   </tr>
 </table>
 
