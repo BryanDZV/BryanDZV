@@ -57,6 +57,7 @@ Me dedico al desarrollo web, construyendo soluciones de principio a fin. Me gust
 
 <table>
   <tr>
+     <td width="50%"> <h3 align="center">Gestor Financiero</h3> <div align="center"> <img src="https://i.imgur.com/OcNOBLJ.png" width="100%" alt="Preview Gestor Financiero"> <br> <img src="https://img.shields.io/badge/React_Router-000?style=flat-square&logo=reactrouter&logoColor=white"/> <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-000?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/> <p>Aplicación para gestionar finanzas personales con control de ingresos, gastos, presupuestos y seguimiento visual de movimientos.</p> <a href="https://gestor-financiero-remix.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://github.com/BryanDZV/Gestor_Financiero_Remix" target="_blank"><img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white" /></a> </div> </td>
     <td width="50%">
   <h3 align="center">✨ Portafolio 3D</h3>
   <div align="center">
@@ -77,19 +78,7 @@ Me dedico al desarrollo web, construyendo soluciones de principio a fin. Me gust
     <a href="https://github.com/BryanDZV/Portafolio" target="_blank"><img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white" /></a>
   </div>
 </td>
-    <td width="50%">
-      <h3 align="center">🎵 SoundHub</h3>
-      <div align="center">
-        <img src="https://i.imgur.com/oxZw1Wo.jpeg" width="100%" alt="Preview SoundHub">
-        <br>
-        <img src="https://img.shields.io/badge/Angular_v20_SSR-000?style=flat-square&logo=angular&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/Vercel_Blob-000?style=flat-square&logo=vercel&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-        <p>Réplica de Spotify desarrollada en equipo con arquitectura FullStack robusta.</p>
-        <a href="https://soundhub-nu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      </div>
-    </td>
+   
     
   </tr>
   <tr>
@@ -104,6 +93,7 @@ Me dedico al desarrollo web, construyendo soluciones de principio a fin. Me gust
         <img src="https://img.shields.io/badge/Jest/RTL-000?style=flat-square&logo=jest&logoColor=white"/>
         <p>E-commerce avanzado con panel de analíticas y sincronización eficiente de datos.</p>
         <a href="https://ecommerce-analytics-storefront-next.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="https://github.com/BryanDZV/ecommerce-analytics-storefront-next" target="_blank"><img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white" /></a>
       </div>
     </td>
     <td width="50%">
@@ -117,6 +107,7 @@ Me dedico al desarrollo web, construyendo soluciones de principio a fin. Me gust
         <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
         <p>Gestión completa de protectoras centrada en la experiencia de usuario y seguridad.</p>
         <a href="https://protectora-orcin.vercel.app/portada" target="_blank"><img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="https://github.com/BryanDZV/Protectora" target="_blank"><img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white" /></a>
       </div>
     </td>
   </tr>
@@ -137,9 +128,24 @@ Me dedico al desarrollo web, construyendo soluciones de principio a fin. Me gust
     <a href="https://medical-portal-orcin-ten.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/>
     </a>
+    <a href="https://github.com/BryanDZV/medical-portal" target="_blank"><img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white" /></a>
   </div>
 </td>
-    <td width="50%"> <h3 align="center">Gestor Financiero</h3> <div align="center"> <img src="https://i.imgur.com/OcNOBLJ.png" width="100%" alt="Preview Gestor Financiero"> <br> <img src="https://img.shields.io/badge/React_Router-000?style=flat-square&logo=reactrouter&logoColor=white"/> <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-000?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/> <p>Aplicación para gestionar finanzas personales con control de ingresos, gastos, presupuestos y seguimiento visual de movimientos.</p> <a href="https://gestor-financiero-remix.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </div> </td>
+ <td width="50%">
+      <h3 align="center">🎵 SoundHub</h3>
+      <div align="center">
+        <img src="https://i.imgur.com/oxZw1Wo.jpeg" width="100%" alt="Preview SoundHub">
+        <br>
+        <img src="https://img.shields.io/badge/Angular_v20_SSR-000?style=flat-square&logo=angular&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/Vercel_Blob-000?style=flat-square&logo=vercel&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+        <p>Réplica de Spotify desarrollada en equipo con arquitectura FullStack robusta.</p>
+        <a href="https://soundhub-nu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="https://github.com/wvrnnier/soundhub_" target="_blank"><img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+   
   </tr>
 </table>
 
