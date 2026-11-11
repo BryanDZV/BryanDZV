@@ -214,7 +214,7 @@ Me dedico al desarrollo web construyendo soluciones completas de principio a fin
 
 <div align="center">
   <a href="https://github.com/BryanDZV">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BryanDZV&theme=react-dark&hide_border=true&area=true" alt="Gráfico de actividad de commits" />
+    <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BryanDZV&theme=algolia" alt="Gráfico de actividad de commits" />
   </a>
 </div>
 
